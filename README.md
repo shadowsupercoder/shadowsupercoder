@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @shadowsupercoder
 
-- 👀 Currently doing Web3 Software development, Defi, DefiGames, Scripting, and Automation, Testing (and any interesting or time-consuming tasks).
+- 👀 Currently doing Web3 Development, DefiGames, Scripting, and Automation, Testing (and any interesting or time-consuming tasks).
 
 - 🌱 Proven Expertise as a Full Stack Solidity developer, Blockchain advisor, Auditor, Manager, and Technical Architect. I stay current with new frameworks and libraries, enhancing projects for global clients. (Python, Django, React, Angular, Foundry/Hardhat/Truffle, Slither, Mythril, Solhint, etc).
 
