@@ -14,4 +14,4 @@
 
 - 📫 My Upwork acc: https://www.upwork.com/freelancers/~016224627cc4d214eb
 
-- 💬 Lets connect via Telegram: @shadowuserem
+- 💬 Lets connect via Telegram: @raamendesu
